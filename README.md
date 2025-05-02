@@ -1,7 +1,7 @@
 ### Olá mundo eu sou a Poliana 👋
 
-
-- 🌱 Estudando Banco de Dados.
+- 👩🏼‍🎓 Sou estudante de Ciência da Computação(2022-2025)
+- 🏋️‍♂️ Iniciando na jornada como Desenvolvedor FullStack.
 - 📫 contate-me pelo email: polianavieiramacena@gmail.com
 - 😄 Pronouns: Ela/Dela.
 
